@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @robinm98
-- 👀 I’m interested in sustainability, data and economics
-- 🌱 I’m currently learning Business Analytics at HEC Lausanne
+- 👋 Hi, I’m @robinm98.
+- 👀 I’m interested in sustainability, data and economics.
+- 🌱 I’m currently learning Business Analytics at HEC Lausanne.
 
 
 <!---
